@@ -14,7 +14,7 @@ def quantum_risk_optimizer(risk_score):
     # Encode risk into qubit
     qc.ry(angle, 0)
 
-    # Measure the Probability
+    # Measure it
     qc.measure(0, 0)
 
     simulator = AerSimulator()
