@@ -197,4 +197,4 @@ This project is licensed under the MIT License.
 
 ## Acknowledgements
 
-This project was developed to explore the integration of Artificial Intelligence and Quantum-inspired approaches for enhancing fraud detection and improving the security of digital payment ecosystems.
+This project was developed to explore the integration of Artificial Intelligence and Quantum-inspired approaches for enhancing fraud detection and improving the security of digital payment ecosystems..
