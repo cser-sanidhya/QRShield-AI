@@ -2,7 +2,7 @@
 
 ## Quantum + AI Fraud Detection System
 
-QRShield-AI is an intelligent fraud detection platform that combines the power of Artificial Intelligence and Quantum-inspired computing concepts to identify suspicious transactions and QR-based payment frauds in real time.
+QRShield-AI is an intelligent fraud detection platform that combines the power of Artificial Intelligence and Quantum-inspired computing concepts to identify suspicious transactions and QR-based payment frauds in real time..
 
 The system analyzes transaction patterns, user behavior, merchant data, and risk indicators to detect potentially fraudulent activities before financial damage occurs.
 
