@@ -183,7 +183,7 @@ The dataset is used to train and evaluate the fraud detection model.
 
 ## Contributors
 
-**Sanidhya Sharma**
+**Sanidhya Singh**
 
 GitHub: https://github.com/cser-sanidhya
 
